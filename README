@@ -1,0 +1,6 @@
+Sleep stages classification projects.
+
+The goal is to build a classifier for 30seconds electroencephalogram, head attached accelerometers and pulse-meter samples which we want
+to classify as one of the sleep stages (Awake, Rapid Eye Movement, N1, N2, N3).
+
+A labeled Dataset of about 40000 anotated samples is used for this purpose
